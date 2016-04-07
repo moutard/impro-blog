@@ -2,28 +2,23 @@
 layout: post
 permalink: /about/
 title: A propos
-description: J'ai découvert le théâtre en école d'ingénieur, après 6 ans de cours,
-  3 participations au Festival d'Avignon et des centaines de représentations, j'ai
-  commencé à enseigner l'improvisation à la faculté de Médecine de Paris 7.
-  Puis j'ai travaillé aves des entreprises pour promouvoir le théâtre.
+description: "J'ai commencé le théâtre en école d'ingénieur et je me suis rapidement passioné pour cette discipline qui m'a appris tellement et qui m'apprend toujours."
 tags: [about, theatre]
 image:
   feature: flibustiers_amiens_salut.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it.
+J'ai découvert le théâtre en école d'ingénieur et je suis vite devenu un passioné.. Après 6 ans de cours, 3 participations au Festival d'Avignon et des centaines de représentations, j'ai commencé à enseigner l'improvisation à la faculté de Médecine de Paris 7. Puis j'ai travaillé aves des entreprises pour promouvoir le théâtre.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help.
+### Mon parcours
+* Né à Paris j'ai d'abord été un fervent spectateur.
+* Après une prépa Math Sup - Math Spé j'intègre Télécom Paris Tech (anciennement ENST).
+* Ma première initiation à l'impro.
+* Création de la troupe des Evadés de la Rue Barrow.
+* Integration de la troupe des Flibustiers de l'Imaginaire.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario.
+### Ma démarche
+Je suis avant tout un ingénieur, je travaille actuellement chez Amazon. Mais
+plus je travaille dans ce secteur plus je me rends compte que le théâtre est
+indispensable.
