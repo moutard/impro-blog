@@ -20,6 +20,9 @@
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
           </hgroup>
         </header>
+
+        {{ content }}
+
     </article>
 
 {% include footer.html %}
