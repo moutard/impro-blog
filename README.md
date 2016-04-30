@@ -139,3 +139,8 @@ jekyll build --destination
 ## License
 
 This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's.
+
+## Build
+jekyll build --source impro-blog --destination impro-blog-s3
+aws s3 sync --acl public-read impro-blog-s3 s3://impro.moutard.co.uk
+
