@@ -16,7 +16,7 @@ Ayant admis qu’une émotion interne fait naître une réaction physique extern
 
 C’est la question que s’est posée Amy Cuddy. Cette chercheuse en psychologie a présenté ses résultats lors d’une conférence TED intitulée “Votre langage corporelforge qui vous êtes.” [^3]
 
-![qmy cuddy]({{ site.url }}/images/amy_cuddy.jpg){: .full }
+![qmy cuddy]({{ site.url }}/images/stanislavski/amy_cuddy.jpg){: .full }
 
 
 Je vous incite à visionner cette conférence, mais en voici les grandes lignes.
@@ -37,7 +37,7 @@ Constantin Stanislavski est un comédien, professeur d’art dramatique et direc
 
 A la fin de sa carrière au contraire, il préférera une approche différente de l’extérieurvers l’intérieur. Stanislavski pensait que si un acteur effectuait un certains nombresd’actions prédéfinies, ce dernier pouvait ressentir l’émotion correspondante.
 
-![stanislawski]({{ site.url }}/images/stanislawski.jpg){: .medium }
+![stanislawski]({{ site.url }}/images/stanislavski/stanislawski.jpg){: .medium }
 
 
 Ceci n’est qu’une composante de son “système” [^4] que l’on appelle aussi “La ligne des actions physiques” [^5]. Son système est beaucoup plus large et il ne faut pas le réduire à ça. Mais je trouve intéressant de souligner que Amy Cuddy n’a fait queprouver ce que Stanislavski avait déjà pressenti.
