@@ -14,7 +14,7 @@ pays. Il rassemble des compagnies venant de toutes les régions de France et par
 reflet grandeur nature de la réalité de la vie artistique des territoires de
 notre nation.
 
-![Flyer Avignon]({{ site.url }}/images/flyer-avignon-2012.png)
+![Flyer Avignon]({{ site.url }}/images/thevenin/flyer-avignon-2012.png)
 
 Avec ma troupe de théâtre j'ai eu la chance de participer 3 fois au festival
 d'Avignon. C'est à la fois un moment de partage intense avec les membres de
