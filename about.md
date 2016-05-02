@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/
 title: Questions Fréquentes.
-description: "Si vous ne trouvez pas vos réponses ici, n'hésiter pas à nous envoyer un email."
+description: "Si vous ne trouvez pas vos réponses ici, n'hésitez pas à nous envoyer un email."
 tags: [about, theatre]
 image:
   feature: flibustiers_amiens_salut.jpg
