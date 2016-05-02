@@ -16,7 +16,7 @@ Ayant admis qu’une émotion interne fait naître une réaction physique extern
 
 C’est la question que s’est posée Amy Cuddy. Cette chercheuse en psychologie a présenté ses résultats lors d’une conférence TED intitulée “Votre langage corporelforge qui vous êtes.” [^3]
 
-![qmy cuddy]({{ site.url }}/images/stanislavski/amy_cuddy.jpg){: .full }
+![amy cuddy]({{ site.url }}/images/stanislavski/amy_cuddy.jpg){: .full }
 
 
 Je vous incite à visionner cette conférence, mais en voici les grandes lignes.
@@ -62,7 +62,7 @@ Et si comme moi vous vous ennuyez en réunion pensez à Stanislavski. Regardezd�
 
 [^6]:  Ouvrage de Marie-Christine Autant Mathieu La [Ligne des Actions Physiques] [actions-physiques]
 
-[baillement]: https://fr.wikipedia.org/wiki/B%C3%A2illement "Optional Title Here"
+[baillement]: https://fr.wikipedia.org/wiki/B%C3%A2illement "Le Baillement"
 [system]: https://en.wikipedia.org/wiki/Stanislavski's_system "Stanislavski System"
 [actions-physiques]: https://www.amazon.fr/ligne-actions-physiques-r%C3%A9p%C3%A9titions-Stanislavski/dp/2912877679 "Lignes des Actions Physiques"
 
