@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Salle Pleine"
-description: "Que ce soit 20 ou 400 spectateurs l'important, c'est que la salle soit pleine."
+description: "Que ce soit 20 ou 400 spectateurs l'essentiel, c'est que la salle soit pleine."
 category: articles
 permalink: /articles/la-salle-pleine/
 tags: [representation,  technique]
@@ -10,7 +10,7 @@ tags: [representation,  technique]
 Je me souviens d'une petite salle voutée dans le sous sol d'un bar, avec une capacité maximale de 20 personnes, avec une scène surelevé de quelques centimètres,
 seulement une dizaine de chaises et le public qui s'entasse debout au fond de la salle. Même s'il n'y avait que 20 personnes, j'ai passé une soirée incroyable.
 
-A l'inverse j'ai aussi  pu jouer dans un amphithéâtre de 1200 places, à moitié vide.
+A l'inverse j'ai aussi pu jouer dans un amphithéâtre de 1200 places, à moitié vide.
 La différence est flagrante, et je préfère de loin la première situation.
 
 ### L'auditorium
@@ -28,6 +28,6 @@ comme absorbés par un trou noir au fond de la salle. Je revois encore nos tête
 à la fin du spectacle.
 
 C'était à la fois très dur mais c'était aussi une très belle expérience. Elle
-m'a fait comprendre la difficulté de jouer devant une salle presque vide. Elle m'a aiussi fait comprendre l'importance du public et de la salle. On ne peut pas jouer partout.
+m'a fait comprendre la difficulté de jouer devant une salle presque vide. Elle m'a aussi fait comprendre l'importance du public et de la salle. On ne peut pas jouer partout. C'est aussi le rôle de comméd
 
 Le pire restant les extérieurs, ça part d'une très bonne idée il y a plein de choses à faire mais malheureusement ce n'est pas évident à gerer.
