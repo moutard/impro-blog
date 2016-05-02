@@ -1,16 +1,16 @@
 {% if page.image.feature %}
 
-{% include head.html %}
+  {% include head.html %}
 
-<section class="article">
+  <section class="article">
 
-  <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
+    <div class="overlay"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 {% else %}
 
-{% include head-dark.html %}
+  {% include head-dark.html %}
 
-<section class="article pad-top">
+  <section class="article pad-top">
 
 {% endif %}
 

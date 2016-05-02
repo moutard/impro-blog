@@ -1,20 +1,19 @@
 title:            Raphaël Moutard
-tagline:          Professeur de theatre et d'improvisation.
-description:      Blog sur l'improvisation.
-canonical: http://impro.moutard.co.uk/
-#url: "http://impro.moutard.co.uk"
+tagline:          Cours d'improvisation théâtrale à Londres.
+description:      Nous proposons des cours d'improvisations pour les francophones à Londres.
+canonical:        http://impro.moutard.co.uk/
+#url:             "http://impro.moutard.co.uk"
 
 # Owner/author information
 owner:
   name:           Raphael Moutard
   avatar:         avatar.png
-  bio:            "Ingenieur et professeur de theatre."
+  bio:            "Ingénieur et professeur de théâtre."
   email:          me@moutard.co.uk
   twitter:        digital_draft
   github:         moutard
   #instagram:
-  #dribbble:
-  #disqus:         balzac
+  linkedin:       https://www.linkedin.com/in/raphaelmoutard
   location:       "London, UK"
 
 tools:
@@ -28,13 +27,12 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: A Propos
+  - title: Cours
+    url: /classes
+  - title: FAQ
     url: /about
   - title: Blog
     url: /blog
-  - title: Linkedin
-    url: https://www.linkedin.com/in/raphaelmoutard
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
