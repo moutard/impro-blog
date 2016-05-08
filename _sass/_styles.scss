@@ -160,7 +160,7 @@ input {
 
 .post {
     @include column(8);
-    max-width: 680px;
+    max-width: 960px;
     display: block;
     margin: 0 auto;
     float: none;
@@ -666,7 +666,34 @@ footer {
     margin-top: $lh*3;
 }
 
+/**
+ * Workshop
+ * ========================================================================== */
+.workshops {
+  width: 100%;
+  display: flex;
+  .workshop {
+    margin: $margin-small;
+    padding:  $margin-small;
+    background-color: $grey-ultra-light;
+    flex: 1;
+    justify-content: space-between;
 
+    &:first-child {
+      margin-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+    h2 {
+      font-size: $fs4;
+    }
+
+    p {
+      color: $grey-medium;
+    }
+  }
+}
 /* Tablet
    ========================================================================== */
 

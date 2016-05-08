@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: classes
 permalink: /classes/
 title: Cours
 tags: [about, theatre]
@@ -22,7 +22,7 @@ En groupe de de 8 à 14, ces cours s’adressent à tous, peu importe votre nive
 ### Prochains cours:
 Les prochains cours commenceront en août 2016. Vous pouvez déjà nous contacter pour réserver ou avoir plus de précision (réservation gratuite).
 
-## Workshop
+## Ateliers Thématiques
 
 Nous proposons aussi un workshop d’une journée le week-end, pour découvrir l’improvisation ou sur un thème donné.
 
@@ -45,10 +45,9 @@ Il n’y aura à priori pas de workshop en juillet.
 Rq: Les workshop sont annoncés un mois à l’avance.
 
 
-## Ateliers dédiés aux entreprises
+## Interventions en Entreprise
 
 "Avant d’être un professeur de théâtre, je suis avant tout un ingénieur. J’ai crée ma start-up puis rejoins une entreprise très structurée. J’ai l’habitude des problèmatiques des entreprises et je sais à quel point l’improvisation peut nous apporter. Tant par la confiance en soit que par la cohésion d’équipe."
 
 ### Informations pratiques:
 Contactez moi pour parler de votre projet et vos besoins pour un devis personnalisé.
-
