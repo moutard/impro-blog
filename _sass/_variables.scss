@@ -35,29 +35,32 @@ $serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
 /* Type Scale
    ========================================================================== */
 
-/** * 12 & 16 as roots then powers of two. */
+/**
+ * FontSize
+ * 12 & 16 as roots then powers of two.
+ */
 
 $fs1:55px;
 $fs2:44px;
 $fs3:32px;
 $fs4:24px;
 
-$fsp:22px;
+$fsp:20px;
 
 $fs5:18px;
 $fs6:14px;
 
 // Line Height
 
-$lh: 33px;
+$lh: 30px;
 $lhsmall: 24px;
 
 // Sizing
 $footerHeight: 320px;
 
-// Griddit
-
-
+// Margin
+$margin-normal: 20px;
+$margin-small: 10px;
 
 /* Break Points
    ========================================================================== */
