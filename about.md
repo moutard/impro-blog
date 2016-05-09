@@ -7,7 +7,7 @@ image:
   feature: flibustiers_amiens_salut.jpg
 ---
 
-Si vous ne trouvez pas vos réponses ici, n'hésitez pas à nous envoyer un [email](mailto:myname@gmail.com).
+Si vous ne trouvez pas vos réponses ici, n'hésitez pas à nous envoyer un [email](mailto:raphael.impro@gmail.com).
 
 ### Qui sont les professeurs ?
 Je m'appelle Raphaël Moutard, j'ai découvert le théâtre d’improvisation lors de mes études en école d'ingénieur à Télécom Paris. Après 6 ans de cours, des centaines de représentations dont 3 années consécutives de participation au Festival d'Avignon avec ma troupe [Les Flibustiers de l'Imaginaire][flibustiers], j'ai commencé, en plus de mon métier d’ingénieur, à enseigner l'improvisation théâtrale à la faculté de Médecine de Paris 7. Mon métier d’ingénieur R&D, m’a permis de travailler plus facilement avec des entreprises parisiennes pour promouvoir le théâtre. C’est ainsi que les Directions des Ressources Humaines de plusieurs entreprises m’ont demandé de donner des représentations pour leurs salariés. Le théâtre d’improvisation est aussi un excellent outil de management et de communication.

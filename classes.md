@@ -20,7 +20,7 @@ En groupe de de 8 à 14, ces cours s’adressent à tous, peu importe votre nive
 £140 pour les 8 séances.
 
 ### Prochains cours:
-Les prochains cours commenceront en août 2016. Vous pouvez déjà nous contacter pour réserver ou avoir plus de précision (réservation gratuite).
+Les prochains cours commenceront en août 2016. Vous pouvez déjà nous contacter par [email](mailto:raphael.impro@gmail.com) pour réserver ou avoir plus de précision (réservation gratuite).
 
 ## Ateliers Thématiques
 
@@ -31,7 +31,7 @@ Nous proposons aussi un workshop d’une journée le week-end, pour découvrir l
 - Les cours peuvent se dérouler à Aldgate East ou Farrington.
 
 ### Tarifs:
-£30 (Réservez votre place gratuitement)
+£30 (Réservez votre place gratuitement par [email](mailto:raphael.impro@gmail.com))
 
 ### Prochains cours:
 
@@ -50,4 +50,4 @@ Rq: Les workshop sont annoncés un mois à l’avance.
 "Avant d’être un professeur de théâtre, je suis avant tout un ingénieur. J’ai crée ma start-up puis rejoins une entreprise très structurée. J’ai l’habitude des problèmatiques des entreprises et je sais à quel point l’improvisation peut nous apporter. Tant par la confiance en soit que par la cohésion d’équipe."
 
 ### Informations pratiques:
-Contactez moi pour parler de votre projet et vos besoins pour un devis personnalisé.
+Contactez moi par email [email](mailto:raphael.impro@gmail.com) pour parler de votre projet et vos besoins pour un devis personnalisé.
